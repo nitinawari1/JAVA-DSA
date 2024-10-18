@@ -1,0 +1,4 @@
+{
+         "codium.codeCompletion.enable": true,
+         "java.debug.settings.onBuildFailureProceed": true
+}
